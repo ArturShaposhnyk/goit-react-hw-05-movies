@@ -10,7 +10,7 @@ export const SearchFormStyled = styled.form`
 export const SearchFormInput = styled.input`
   padding: 10px;
   border-radius: 5px;
-  border: solid 2px violet;
+  border: solid 2px black;
   background-color: inherit;
   outline: none;
   width: 100%;
@@ -26,13 +26,13 @@ export const SearchFormBtn = styled.button`
   right: -70px;
   background-color: inherit;
   border-radius: 5px;
-  border: solid 2px violet;
+  border: solid 2px black;
   height: 40px;
   width: 40px;
 `;
 
 export const SearchFormBtnIcon = styled(ImSearch)`
-  color: violet;
+  color: black;
   width: 20px;
   height: 20px;
 `;

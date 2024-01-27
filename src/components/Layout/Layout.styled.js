@@ -6,13 +6,13 @@ export const StyledNav = styled('nav')`
   padding: 15px;
   gap: 15px;
   font-weight: bold;
-  border-bottom: 2px solid violet;
+  border-bottom: 2px solid black;
 `;
 
 export const StyledLink = styled(NavLink)`
   color: black;
 
   &.active {
-    color: violet;
+    color: black;
   }
 `;

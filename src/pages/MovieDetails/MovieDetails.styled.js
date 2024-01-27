@@ -21,7 +21,7 @@ export const GoBackBtn = styled(Link)`
   align-items: center;
   cursor: pointer;
   outline: none;
-  color: violet;
+  color: black;
   border: transparent;
   border-radius: 5px;
   font-weight: bold;
